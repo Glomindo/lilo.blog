@@ -14,8 +14,6 @@ Charlie Gerl & Lionel Reusser
 
 An einem winterlichen Freitagabend treffen wir uns mit einer Besuchergruppe auf einem Parkplatz vor dem Zoo Dählhölzli. Es ist kalt, windig und düster. Gespannt warten wir mit den anderen fünfzehn neugierigen Besuchern auf die Abend-Führung durch den Tierpark. Vendolin Uhr, eine junge, engagierte Zooführerin, empfängt uns herzlich und führt uns durch den Hintereingang ins Vivarium, wo die Führung beginnt. Im Inneren hört man die Affen kreischen und im Hintergrund Arbeitsgeräusche von Bauarbeitern. Da es warm ist, ziehen wir unsere Jacken aus und folgen Frau Uhr zum Totenkopfäffchen-Gehege.
 
-
-
 Vor der Führung waren wir schon einmal im Tierpark. Was uns damals als erstes ins Auge stiess, waren süsse Totenkopfäffchen, die glücklich in ihrem Gehege herumsprangen. Einige spielten miteinander oder rannten einander hinterher. Andere assen Salat und starrten uns interessiert an. Wir fragen uns, wie gut es diesen Tieren hier geht. Werden sie nicht von den Menschen gestresst? Haben sie genug Platz und Rückzugsmöglichkeiten? Das sehen wir uns in der Führung genauer an.
 
 ![Ein Saimiri im Zoo Dählhölzli leckt gerade die Scheibe ab. 12.01.2024 (Quelle: L. Reusser, C. Gerl)](whatsapp-image-2024-02-16-at-20.54.05.jpeg)
@@ -68,6 +66,8 @@ Im Rahmen dieser Reportage haben wir erlebt, dass viele Anforderungen hinter den
 
 ![Frau Meret Huwiler, Kuratorin des Dählhölzlis-Zoos.                                                               18.12.2023 (Quelle: L.Reusser, C. Gerl)](whatsapp-image-2024-02-16-at-20.55.10.jpeg)
 
-`{{<box>}} `**Meret Huwiler**
 
-Die 30-jährige Meret Huwiler ist eine der beiden Kuratorinnen des Zoos. Mit ihr haben wir das Interview zu unserer Reportage geführt. Sie kümmert sich um Tierbestand, Tierhaltung, Personal und Wohlbefinden der Tiere. Sie ist durch ein Schnuppern im Zoo Zürich auf die Idee gekommen, Kuratorin zu werden. Dabei hat sie erfahren, dass sie für diese Aufgabe Biologie studieren sollte. Während dieses Studiums arbeitete sie auch als Tierpflegerin im Papiliorama. Ihre Masterarbeit hat sie im Zoo Basel geschrieben. `{{</box>}}`
+
+{{<box>}} **Meret Huwiler**
+
+Die 30-jährige Meret Huwiler ist eine der beiden Kuratorinnen des Zoos. Mit ihr haben wir das Interview zu unserer Reportage geführt. Sie kümmert sich um Tierbestand, Tierhaltung, Personal und Wohlbefinden der Tiere. Sie ist durch ein Schnuppern im Zoo Zürich auf die Idee gekommen, Kuratorin zu werden. Dabei hat sie erfahren, dass sie für diese Aufgabe Biologie studieren sollte. Während dieses Studiums arbeitete sie auch als Tierpflegerin im Papiliorama. Ihre Masterarbeit hat sie im Zoo Basel geschrieben. {{</box>}}
