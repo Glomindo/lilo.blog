@@ -14,17 +14,13 @@ Charlie Gerl & Lionel Reusser
 
 An einem winterlichen Freitagabend treffen wir uns mit einer Besuchergruppe auf einem Parkplatz vor dem Zoo Dählhölzli. Es ist kalt, windig und düster. Gespannt warten wir mit den anderen fünfzehn neugierigen Besuchern auf die Abend-Führung durch den Tierpark. Vendolin Uhr, eine junge, engagierte Zooführerin, empfängt uns herzlich und führt uns durch den Hintereingang ins Vivarium, wo die Führung beginnt. Im Inneren hört man die Affen kreischen und im Hintergrund Arbeitsgeräusche von Bauarbeitern. Da es warm ist, ziehen wir unsere Jacken aus und folgen Frau Uhr zum Totenkopfäffchen-Gehege.
 
-
-
-{{<box>}}
-
-<!--\[if gte mso 9]><xml>
+{{<box>}} <!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -65,9 +61,9 @@ An einem winterlichen Freitagabend treffen wir uns mit einer Besuchergruppe auf 
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -646,9 +642,9 @@ An einem winterlichen Freitagabend treffen wir uns mit einer Besuchergruppe auf 
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -695,21 +691,12 @@ table.MsoTableGrid
 	mso-ansi-language:DE;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
-
-
-
- 
+<!\\[endif]-->
 
 |     |
 | --- |
-|     |
-
-
 
 {{</box>}}
-
-
 
 Vor der Führung waren wir schon einmal im Tierpark. Was uns damals als erstes ins Auge stiess, waren süsse Totenkopfäffchen, die glücklich in ihrem Gehege herumsprangen. Einige spielten miteinander oder rannten einander hinterher. Andere assen Salat und starrten uns interessiert an. Wir fragen uns, wie gut es diesen Tieren hier geht. Werden sie nicht von den Menschen gestresst? Haben sie genug Platz und Rückzugsmöglichkeiten? Das sehen wir uns in der Führung genauer an.
 
