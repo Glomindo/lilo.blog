@@ -1,5 +1,5 @@
 +++
-title = "Blick hinter die Kulissen des Dählhölzli-Zoos 2"
+title = "Blick hinter die Kulissen des Dählhölzli-Zoos "
 date = "2024-02-16"
 draft = false
 pinned = false
