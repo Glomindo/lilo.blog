@@ -30,15 +30,7 @@ Zur Sicherstellung der artgerechten Haltung gehört der Zoo Dählhölzli einem i
 
 Auch national wird der Zoo regelmässig kontrolliert. So kommen das kantonale Veterinäramt und das Bundesamt für Veterinärwesen vorbei. «Wir arbeiten ganz nahe mit ihnen zusammen, um eben genau diese Qualität sicher zu stellen. Ich würde sagen, dass wir ein guter Zoo sind. Wir geben uns besonders Mühe, denn wir sind mit der Wissenschaft verbunden und wir haben relativ grosse Anlagen, die gut gefüllt sind», erklärt uns Frau Huwiler, die Kuratorin des Dählhölzlis stolz. Sie meint, dass die Grösse des Geheges wichtig wäre, aber auch weitere Faktoren eine Rolle spielen würden. «Tiergerechtes Futter, Populationsmanagement, Gesundheitsmanagement, Netzwerk mit anderen Zoos, Bildungsangebote sowie Naturschutz sind auch wesentliche Elemente», präzisiert Frau Huwiler.
 
-{{<box>}} 
-
-Die EAZA ist die «European Association of Zoos and Aquaria», ein Verband von Zoos und Aquarien in Europa. Ihr Hauptziel ist es, den Naturschutz durch Zusammenarbeit, Forschung und Bildung zu fördern. Mitglieder verpflichten sich zu hohen Standards in Tierpflege und Artenschutz. Der Verband koordiniert Zuchtprogramme für gefährdete Arten und unterstützt Naturschutzprojekte weltweit. Die Organisation trägt dazu bei, das Bewusstsein für Umweltfragen zu schärfen und die biologische Vielfalt zu erhalten
-
-{{<box>}}
-
-
-
-
+{{<box>}} Die EAZA ist die «European Association of Zoos and Aquaria», ein Verband von Zoos und Aquarien in Europa. Ihr Hauptziel ist es, den Naturschutz durch Zusammenarbeit, Forschung und Bildung zu fördern. Mitglieder verpflichten sich zu hohen Standards in Tierpflege und Artenschutz. Der Verband koordiniert Zuchtprogramme für gefährdete Arten und unterstützt Naturschutzprojekte weltweit. Die Organisation trägt dazu bei, das Bewusstsein für Umweltfragen zu schärfen und die biologische Vielfalt zu erhalten {{</box>}}
 
 Unsere Führung mit Frau Uhr geht weiter. Dabei geht es durch mehrere Räume, in denen normalerweise das Personal arbeitet, bis wir in einer Küche ankommen.
 
