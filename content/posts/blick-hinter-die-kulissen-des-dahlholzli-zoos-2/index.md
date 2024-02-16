@@ -56,4 +56,4 @@ Abschliessend dürfen wir Klaus auf den Arm nehmen. Erstaunlicherweise ist die H
 
 Im Rahmen dieser Reportage haben wir erlebt, dass viele Anforderungen hinter den Kulissen erfüllt sein müssen, damit es den Tieren gut geht und die Besucher auch in Zukunft ein ungetrübtes Erlebnis im Zoo geniessen können. Die Besucher machen sich über viele Aspekte keine Gedanken, wie zum Beispiel, ob die Tiere genug Platz haben, dass es extra Küchen gibt, um den Tieren das Futter artgerecht zu präparieren, oder dass der Zoo eng mit der Wissenschaft zusammenarbeitet. Das alles wurde uns durch die Führung und das Gespräch mit der Kuratorin klar. Ab jetzt werden wir, wenn wir wieder in den Zoo gehen, eine ganz andere Sicht auf das komplexe Zusammenwirken haben.
 
-![Frau Meret Huwiler, Kuratorin des Dählhölzlis-Zoos. 18.12.2023 (Quelle: L.Reusser, C. Gerl)](whatsapp-image-2024-02-16-at-20.55.10.jpeg)
+![Frau Meret Huwiler, Kuratorin des Dählhölzlis-Zoos.                                    18.12.2023 (Quelle: L.Reusser, C. Gerl)](whatsapp-image-2024-02-16-at-20.55.10.jpeg)
