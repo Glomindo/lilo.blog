@@ -4,9 +4,7 @@ date = "2024-02-16"
 draft = false
 pinned = false
 +++
-# Blick hinter die Kulissen des Dählhölzli-Zoos
-
-Auf den ersten Blick erscheint der Zoo Dählhölzli in Bern als ein Ort der Unterhaltung und Bildung, wo Familien mit lachenden Kindern Tiere bewundern. Doch im Tierpark existieren zwei verschiedene Welten: eine, die für die Öffentlichkeit bestimmt ist, und eine andere, die sich hinter den Kulissen verbirgt. Jeder Besucher erlebt die sorgfältig arrangierte Fassade mit den Gehegen vieler verschiedener Tiere, während im Hintergrund eine Welt der Pflege, Organisation und Verwaltung existiert, die verborgen bleibt. Wir, zwei Schüler des Gymnasiums Hofwil, haben durch eine Führung an einem Abend im Januar 2024 den Kontrast erkundet.
+{{<lead>}} Auf den ersten Blick erscheint der Zoo Dählhölzli in Bern als ein Ort der Unterhaltung und Bildung, wo Familien mit lachenden Kindern Tiere bewundern. Doch im Tierpark existieren zwei verschiedene Welten: eine, die für die Öffentlichkeit bestimmt ist, und eine andere, die sich hinter den Kulissen verbirgt. Jeder Besucher erlebt die sorgfältig arrangierte Fassade mit den Gehegen vieler verschiedener Tiere, während im Hintergrund eine Welt der Pflege, Organisation und Verwaltung existiert, die verborgen bleibt. Wir, zwei Schüler des Gymnasiums Hofwil, haben durch eine Führung an einem Abend im Januar 2024 den Kontrast erkundet. {{</lead>}}
 
 Charlie Gerl & Lionel Reusser
 
@@ -65,8 +63,6 @@ Abschliessend dürfen wir Klaus auf den Arm nehmen. Erstaunlicherweise ist die H
 Im Rahmen dieser Reportage haben wir erlebt, dass viele Anforderungen hinter den Kulissen erfüllt sein müssen, damit es den Tieren gut geht und die Besucher auch in Zukunft ein ungetrübtes Erlebnis im Zoo geniessen können. Die Besucher machen sich über viele Aspekte keine Gedanken, wie zum Beispiel, ob die Tiere genug Platz haben, dass es extra Küchen gibt, um den Tieren das Futter artgerecht zu präparieren, oder dass der Zoo eng mit der Wissenschaft zusammenarbeitet. Das alles wurde uns durch die Führung und das Gespräch mit der Kuratorin klar. Ab jetzt werden wir, wenn wir wieder in den Zoo gehen, eine ganz andere Sicht auf das komplexe Zusammenwirken haben.
 
 ![Frau Meret Huwiler, Kuratorin des Dählhölzlis-Zoos.                                                               18.12.2023 (Quelle: L.Reusser, C. Gerl)](whatsapp-image-2024-02-16-at-20.55.10.jpeg)
-
-
 
 {{<box>}} **Meret Huwiler**
 
