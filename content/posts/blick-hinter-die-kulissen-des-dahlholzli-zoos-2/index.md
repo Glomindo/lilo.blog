@@ -50,7 +50,7 @@ Wir gehen weiter eine kleine Treppe hinauf und kommen in einen dunklen Raum mit 
 
 Das Dählhölzli besitzt einen grossen Raum, in dem Korallen gezüchtet werden. Diese werden in verschiedenen Becken gehalten, die unterschiedlich beleuchtet sind. Je nach Korallenart braucht es zudem andere Temperaturen, die konstant bleiben müssen.
 
-![Eine verbleichte Koralle aus dem Dählhölzli, die nur unter idealen Bedin-gungen gerettet werden kann. 12.01.2024 (Quelle: L. Reusser, C. Gerl)](whatsapp-image-2024-02-16-at-21.02.00.jpeg)
+![Eine verbleichte Koralle aus dem Dählhölzli, die nur unter idealen Bedingungen gerettet werden kann. 12.01.2024 (Quelle: L. Reusser, C. Gerl)](whatsapp-image-2024-02-16-at-21.02.00.jpeg)
 
 Jeden Tag muss eine Nährlösung in die Becken gegossen werden, damit die Korallen gut wachsen. Die Beachtung dieser Punkte ist elementar, damit die Korallen nicht an Korallenbleiche erkranken. In diesem Zustand verlieren sie alle Farbe, um letzte Kraft zu sparen, bevor sie sterben. Sie können sich wieder erholen. Wird jedoch zu lange gewartet, sterben sie ab. Wenn die Korallen erwachsen sind, werden sie entweder in ein Becken mit Fischen gesetzt oder an andere Zoos verkauft. 
 
