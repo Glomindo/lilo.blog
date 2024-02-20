@@ -26,7 +26,7 @@ Zur Sicherstellung der artgerechten Haltung gehört der Zoo Dählhölzli einem i
 
 > *„Ich würde sagen, dass wir ein guter Zoo sind.“*
 >
-> Meret Huwiler
+> *Meret Huwiler*
 
 Auch national wird der Zoo regelmässig kontrolliert. So kommen das kantonale Veterinäramt und das Bundesamt für Veterinärwesen vorbei. «Wir arbeiten ganz nahe mit ihnen zusammen, um eben genau diese Qualität sicher zu stellen. Ich würde sagen, dass wir ein guter Zoo sind. Wir geben uns besonders Mühe, denn wir sind mit der Wissenschaft verbunden und wir haben relativ grosse Anlagen, die gut gefüllt sind», erklärt uns Frau Huwiler, die Kuratorin des Dählhölzlis stolz. Sie meint, dass die Grösse des Geheges wichtig wäre, aber auch weitere Faktoren eine Rolle spielen würden. «Tiergerechtes Futter, Populationsmanagement, Gesundheitsmanagement, Netzwerk mit anderen Zoos, Bildungsangebote sowie Naturschutz sind auch wesentliche Elemente», präzisiert Frau Huwiler. 
 
