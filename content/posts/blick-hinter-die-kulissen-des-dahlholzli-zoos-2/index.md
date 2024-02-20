@@ -38,11 +38,9 @@ Unsere Führung mit Frau Uhr geht weiter. Dabei geht es durch mehrere Räume, in
 
 Das Essen der Tiere wird vom Dählhölzli in eigenen Küchen zubereitet. Es gibt verschiedene für unterschiedliche Tierarten. Wir schauen uns die Küche für Affen und Vögel an, in der unterschiedliches Futter präpariert wird. Sie ist relativ gross und es riecht streng. «Hier wird gerade ein Bambusrohr, in dem die Köche Mehlwürmer reinsetzen für die Affen, präpariert», zeigt uns Frau Uhr. Beim Verlassen der Küche gelangen wir in einen Gang, an den weitere Küchen und Räume für die Futterlagerung angrenzen. Ganz am Ende des Ganges führt eine Treppe hinunter zur Metzgerei. Beim Betreten des Raumes sticht uns ein starker Fischgeruch in die Nase. Der Zoo benötigt die Metzgerei, um Fleisch für die Tiere vorzubereiten. Unter anderem schlachten sie Hühner, die dann in einem kalten Raum gelagert und schliesslich den Raubtieren verfüttert werden.
 
-
-
-> *[](https://www.lilo.blog/)«Wenn Tiere, zum Beispiel Rehe, in der Nähe überfahren werden, kommen sie auchin den Zoo»*
+> [](https://www.lilo.blog/)*«Wenn Tiere, zum Beispiel Rehe, in der Nähe überfahren werden, kommen sie auchin den Zoo»*
 >
-> \-*Vendolin Uhr*
+> *Vendolin Uhr*
 
 Der Zoo erhält auch Fleisch mit abgelaufenem Verkaufsdatum, das sie, wenn es noch essbar ist, auch den Raubtieren zum Fressen geben. «Wenn Tiere, zum Beispiel Rehe, in der Nähe überfahren werden, kommen sie auch in den Zoo», erklärt uns Frau Uhr. «Sie werden über einen speziellen Lift zur Metzgerei transportiert und dann nach einem gründlichen Krankheitscheck den Raubtieren verfüttert.»
 
