@@ -3,6 +3,8 @@ title = "Blick hinter die Kulissen des Dählhölzli-Zoos "
 date = "2024-02-16"
 draft = false
 pinned = true
+image = "whatsapp-image-2024-02-16-at-20.44.01.jpeg"
+description = "Auf den ersten Blick erscheint der Zoo Dählhölzli in Bern als ein Ort der Unterhaltung und Bildung, wo Familien mit lachenden Kindern Tiere bewundern. Doch im Tierpark existieren zwei verschiedene Welten: eine, die für die Öffentlichkeit bestimmt ist, und eine andere, die sich hinter den Kulissen verbirgt. Jeder Besucher erlebt die sorgfältig arrangierte Fassade mit den Gehegen vieler verschiedener Tiere, während im Hintergrund eine Welt der Pflege, Organisation und Verwaltung existiert, die verborgen bleibt. Wir, zwei Schüler des Gymnasiums Hofwil, haben durch eine Führung an einem Abend im Januar 2024 den Kontrast erkundet."
 +++
 {{<lead>}} Auf den ersten Blick erscheint der Zoo Dählhölzli in Bern als ein Ort der Unterhaltung und Bildung, wo Familien mit lachenden Kindern Tiere bewundern. Doch im Tierpark existieren zwei verschiedene Welten: eine, die für die Öffentlichkeit bestimmt ist, und eine andere, die sich hinter den Kulissen verbirgt. Jeder Besucher erlebt die sorgfältig arrangierte Fassade mit den Gehegen vieler verschiedener Tiere, während im Hintergrund eine Welt der Pflege, Organisation und Verwaltung existiert, die verborgen bleibt. Wir, zwei Schüler des Gymnasiums Hofwil, haben durch eine Führung an einem Abend im Januar 2024 den Kontrast erkundet. {{</lead>}}
 
