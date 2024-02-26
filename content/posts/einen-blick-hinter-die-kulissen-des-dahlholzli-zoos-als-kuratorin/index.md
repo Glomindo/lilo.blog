@@ -3,6 +3,8 @@ title = "Einen Blick hinter die Kulissen des Dählhölzli-Zoos als Kuratorin"
 date = "2024-02-26"
 draft = false
 pinned = false
+image = "whatsapp-image-2024-02-26-at-21.21.32.jpeg"
+description = "In einem lebendigen Tierpark, wo die Vielfalt der Natur erlebbar wird, steht eine Kuratorin im Mittelpunkt des Geschehens. Mit einem feinen Gespür und einer tiefen Verbundenheit zu den Tieren lenkt sie die Angelegenheiten des Zoos. Ihre Tage sind geprägt von Büroarbeit und direkter Interaktion mit den Lebewesen, um sicherzustellen, dass jedes Tier in ihrem Gehege gut versorgt ist."
 +++
 {{<lead>}}In einem lebendigen Tierpark, wo die Vielfalt der Natur erlebbar wird, steht eine Kuratorin im Mittelpunkt des Geschehens. Mit einem feinen Gespür und einer tiefen Verbundenheit zu den Tieren lenkt sie die Angelegenheiten des Zoos. Ihre Tage sind geprägt von Büroarbeit und direkter Interaktion mit den Lebewesen, um sicherzustellen, dass jedes Tier in ihrem Gehege gut versorgt ist.{{</lead>}}
 
