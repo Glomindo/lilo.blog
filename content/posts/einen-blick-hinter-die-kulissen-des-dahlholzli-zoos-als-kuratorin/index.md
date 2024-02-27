@@ -42,8 +42,6 @@ Ich unterstütze diese neuen Veränderungen völlig. Es ist Teil einer Gesamtpla
 
 Bezüglich der Medienberichterstattung darüber mussten wir feststellen, dass unsere Veränderungen bezüglich des Kinderzoos so dargestellt wurden, als würden wir etwas Böses wollen und den Kindern etwas wegnehmen. Es ist aber so, dass wir bald etwas Neues vorstellen, was deutlich zeitgemässer ist. Denn wir haben uns die Frage gestellt, ob unser Zoo wirklich die Funktion eines Bauernhofes haben sollte oder ob wir nicht eher darauf fokussieren sollten, was einen modernen Zoo wirklich ausmacht.
 
-pup
-
 {{<box>}}**Definition Zoo**
 
 Als Zoo oder zoologischen Garten bezeichnet man eine der Öffentlichkeit zugängliche dauer-hafte Einrichtung insbesondere zur Haltung seltener oder exotischer Wildtiere. In der Schweiz gibt es fünf als wissenschaftlich anerkannte zoologische Gärten (Basel, Zürich, Bern, Goldau und Langenberg) sowie rund 120 weitere öffentlich zugängliche Wildtierhaltungen (Kleinzoos, Tierparks, Volieren, Storchenkolonien etc.) mit heimischen oder exotischen Tierarten. Während sie früher in erster Linie auf die Unterhaltung ihrer Besucher ausgerichtet waren, erheben Zoos heute den Anspruch, auch Aufgaben in den Bereichen Öffentlichkeitsarbeit, Forschung und Artenschutz zu erfüllen. (Quelle: www.tierimrecht.org/de/recht/lexikon-tierschutzrecht/Zoo/) {{</box>}}
