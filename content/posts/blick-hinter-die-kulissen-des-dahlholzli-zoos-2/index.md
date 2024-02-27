@@ -22,7 +22,7 @@ Vor der Führung waren wir schon einmal im Tierpark. Was uns damals als erstes i
 
 Der biologische Fachbegriff für Totenkopfäffchen lautet Saimiri. Sie sind sehr neugierige und soziale Tiere, die bis zu 35 Jahre alt werden können. Die ca. 900 Menschen, die jeden Tag vorbeikommen, werden von den Äffchen genauso wahrgenommen, wie auch wir sie wahrnehmen. Das heisst, dass sie auch sehr an uns interessiert sind. Im Dählhölzli gibt es neun Saimiris, die zum Teil dort aufgewachsen sind oder aus anderen Zoos und Zirkussen gerettet wurden. Bei diesen Affen ist die Familie das Wichtigste. Hier leben nur weibliche Saimiris. Bei den gelb-schwarzen Äffchen sind die Weibchen die Chefinnen. Die Männchen, die sich nicht gut in die Familien integrieren, werden von ihnen in freier Wildbahn weggeschickt und kommen die Familie nur ab und zu besuchen. Da es in einem Zoo schwierig ist, einen speziellen Ort für die Männchen einzurichten, gibt das Dählhölzli die Männchen in andere Zoos, wo sie besser gehalten werden und sich wohler fühlen. Damit den Saimiris in ihrem Gehege nicht langweilig wird, fügt der Zoo ständig neue Gegenstände hinzu. Falls ihnen die ganze Aufmerksamkeit zu viel wird, laufen sie zu einem kleinen Tunnel. Dieser führt zu einem zweiten, grösseren Gehege, in dem sie sich besser beruhigen können. Schliesslich verfügen sie auch noch über einen dritten Raum, der zur Isolation dient, wenn sie zum Beispiel krank sind.
 
-### Ein Zoo mit hohen Standards
+### **Ein Zoo mit hohen Standards**
 
 Zur Sicherstellung der artgerechten Haltung gehört der Zoo Dählhölzli einem internationalen Dachverband namens EAZA an. EAZA steht für «European Association of Zoos and Aquaria». Das Ziel dieses Dachverbandes ist die Vergabe eines Qualitätssiegels. Dafür kontrollieren sie im Rahmen von Vor-Ort-Besuchen etwa alle 5 Jahre den Zoo. Sie schauen, ob die Tierhaltung sowohl den modernsten nationalen wie auch internationalen Normen entspricht.
 
@@ -38,7 +38,7 @@ Die EAZA ist die «European Association of Zoos and Aquaria», ein Verband von Z
 
 Unsere Führung mit Frau Uhr geht weiter. Dabei geht es durch mehrere Räume, in denen normalerweise das Personal arbeitet, bis wir in einer Küche ankommen.
 
-### Artengerechtes Futter
+### **Artengerechtes Futter**
 
 Das Essen der Tiere wird vom Dählhölzli in eigenen Küchen zubereitet. Es gibt verschiedene für unterschiedliche Tierarten. Wir schauen uns die Küche für Affen und Vögel an, in der unterschiedliches Futter präpariert wird. Sie ist relativ gross und es riecht streng. «Hier wird gerade ein Bambusrohr, in dem die Köche Mehlwürmer reinsetzen für die Affen, präpariert», zeigt uns Frau Uhr. Beim Verlassen der Küche gelangen wir in einen Gang, an den weitere Küchen und Räume für die Futterlagerung angrenzen. Ganz am Ende des Ganges führt eine Treppe hinunter zur Metzgerei. Beim Betreten des Raumes sticht uns ein starker Fischgeruch in die Nase. Der Zoo benötigt die Metzgerei, um Fleisch für die Tiere vorzubereiten. Unter anderem schlachten sie Hühner, die dann in einem kalten Raum gelagert und schliesslich den Raubtieren verfüttert werden.
 
@@ -50,7 +50,7 @@ Der Zoo erhält auch Fleisch mit abgelaufenem Verkaufsdatum, das sie, wenn es no
 
 Wir gehen weiter eine kleine Treppe hinauf und kommen in einen dunklen Raum mit vielen grossen Wasserbecken.
 
-### Sorgfältige Zucht von Korallen
+### **Sorgfältige Zucht von Korallen**
 
 Das Dählhölzli besitzt einen grossen Raum, in dem Korallen gezüchtet werden. Diese werden in verschiedenen Becken gehalten, die unterschiedlich beleuchtet sind. Je nach Korallenart braucht es zudem andere Temperaturen, die konstant bleiben müssen.
 
@@ -58,7 +58,7 @@ Das Dählhölzli besitzt einen grossen Raum, in dem Korallen gezüchtet werden. 
 
 Die Beachtung dieser Punkte ist elementar, damit die Korallen nicht an Korallenbleiche erkranken. In diesem Zustand verlieren sie alle Farbe, um letzte Kraft zu sparen, bevor sie sterben. Sie können sich wieder erholen. Wird jedoch zu lange gewartet, sterben sie ab. Wenn die Korallen erwachsen sind, werden sie entweder in ein Becken mit Fischen gesetzt oder an andere Zoos verkauft. 
 
-### Zum Schluss eine kleine Überraschung
+### **Zum Schluss eine kleine Überraschung**
 
 Frau Uhr bringt uns zurück zum Haupteingang. Dort hat sie noch eine letzte Überraschung für uns und kommt mit einer Königspython namens Klaus im Arm zurück. Klaus lebt in einem Gehege, das bei einem normalen Besuch nicht zu sehen ist. Er kommt nur hervor, um gestreichelt zu werden. Frau Uhr erklärt uns, wie wir ihn artgerecht anfassen dürfen. So darf diese Schlange nicht mit dreckigen Händen angefasst werden, denn das könnte Krankheiten übertragen. Man soll sie wie eine Katze von oben nach unten streicheln und ihren Kopf nicht berühren, weil sie dann reflexhaft beissen könnte.
 
