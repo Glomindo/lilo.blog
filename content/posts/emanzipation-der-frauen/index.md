@@ -3,6 +3,7 @@ title = "Emanzipation der Frauen"
 date = "2024-10-21"
 draft = false
 pinned = false
+image = "helvetias-toechter-epub-nadine-a-bruegger.webp"
 description = ""
 +++
 Emanzipation der Frauen – Verlust der Weiblichkeit oder Gewinn an Freiheit?
